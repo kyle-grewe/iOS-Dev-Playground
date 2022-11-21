@@ -19,7 +19,7 @@ struct ContentView: View {
             Text("Made with love by Kyle Grewe")
                     .padding(.top, 20.0)
                 Image(systemName: "heart")
-                .foregroundColor(.red)
+                .foregroundColor(.blue)
                 
         }
         .padding(30.0)
